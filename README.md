@@ -16,7 +16,7 @@ Pull requests and issue tickets are welcome, and new additions will be credited 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[See @ion-storm Threat Intelligence SIEM fork](https://github.com/ion-storm/sysmon-config)**
 
-Note: Exact syntax and filtering choices are deliberate to catch appropriate entries and to have as little performance impact as possible. Sysmon's filtering abilities are different than the built-in Windows auditing features, so often a different approach is taken than the normal static listing of every possible important area.
+Note!: Exact syntax and filtering choices are deliberate to catch appropriate entries and to have as little performance impact as possible. Sysmon's filtering abilities are different than the built-in Windows auditing features, so often a different approach is taken than the normal static listing of every possible important area.
 
 ## Use ##
 ### Install ###
